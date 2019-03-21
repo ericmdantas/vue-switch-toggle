@@ -40,8 +40,9 @@
   },
   "keywords": [
     "vue",
-    "floating",
-    "alert"
+    "checkbox",
+    "switch",
+    "toggle"
   ],
   "author": "Eric Mendes Dantas",
   "license": "MIT",
