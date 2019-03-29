@@ -5,7 +5,7 @@
 
 <template>
     <div>   
-        <switch-toggle></switch-toggle>
+        <SwitchToggle />
     </div>
 </template>
 
